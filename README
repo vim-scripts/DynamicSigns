@@ -1,0 +1,10 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3965
+
+This plugin enables you to use signs |sign-support| for different things. For
+example you can use signs to display Indentation-Levels, display line
+whitespace errors, display marks |mark-motion|, display the differences
+between the current editing file and the file on disk or whenever an
+expression evalutates true (similar to how fold-expressions work |fold-expr|)
+
+All you need to do, is configure the plugin by setting some configuration
+variables and run |:Signs|
